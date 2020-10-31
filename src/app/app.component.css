@@ -129,10 +129,10 @@ p {
 
 @keyframes pokemon {
   0% {
-       transform: rotateX(0deg);
+       transform: rotateY(0deg);
   }
   100% {
-       transform: rotateX(360deg);
+       transform: rotateY(360deg);
   }
 }
 
